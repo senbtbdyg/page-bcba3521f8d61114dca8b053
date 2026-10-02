@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "6c8643bf20d8944d125e5297",
+  "owner": "senbtbdyg",
+  "repo": "page-bcba3521f8d61114dca8b053",
+  "title": "MaTrix",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "bcba3521f8d61114dca8b053",
+      "a": "MaTrix",
+      "b": "",
+      "entity": "MaTrix",
+      "brand": "MaTrix",
+      "separator": "",
+      "path": "index.html",
+      "hash": "480ea6c744ee0d8b90ac76950b1c1766737031c0f1f7f929a0eb6cdc9fd421b2",
+      "content": {
+        "keyword1": "MaTrix",
+        "keyword2": "",
+        "primary_entity": "MaTrix",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "MaTrix 提供机场订阅与 VPN 网络加速服务，支持多端客户端下载、流媒体解锁与 IPLC 游戏优化，并给出基础版、旗舰版与团队版官方套餐说明。",
+          "AI_DESCRIPTION": "MaTrix 提供机场订阅与 VPN 网络加速服务，支持多端客户端下载、流媒体解锁与 IPLC 游戏优化，并给出基础版、旗舰版与团队版官方套餐说明。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}body{margin:0;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;background:#f3f4f6;color:#111827;font-size:17px;line-height:1.65}a{color:#6d28d9;text-decoration:none}a:hover{text-decoration:underline}header{background:#4c1d95;color:#f5f3ff;padding:12px 16px}.nav{display:flex;flex-wrap:wrap;gap:10px 16px;max-width:1100px;margin:0 auto;align-items:center}.nav strong{margin-right:auto;font-size:1.12rem;letter-spacing:.02em}.nav a{color:#ede9fe}.wrap{max-width:1100px;margin:0 auto;padding:18px 16px 40px}h1{font-size:1.8rem;line-height:1.3;color:#4c1d95;margin:8px 0 10px}h2{font-size:1.38rem;color:#5b21b6;margin:32px 0 12px;border-bottom:2px solid #ddd6fe;padding-bottom:6px}h3{font-size:1.12rem;color:#4c1d95;margin:18px 0 8px}p,li{color:#1f2937}.lead{font-size:1.04rem;color:#374151}.columns{display:grid;gap:16px}@media(min-width:760px){.columns-2{grid-template-columns:1.15fr .85fr}.plans{grid-template-columns:repeat(3,1fr)}.scenes{grid-template-columns:1fr 1fr 1fr}}.card{background:#fff;border:1px solid #e5e7eb;border-radius:12px;padding:16px 18px}.plan{display:flex;flex-direction:column;min-width:0}.plan.featured{border:2px solid #7c3aed;background:#f5f3ff}.price{font-size:1.45rem;font-weight:700;color:#5b21b6}.annual{color:#6b7280;font-size:.92rem;margin:4px 0 10px}.plan ul{padding-left:18px;margin:8px 0 0}.badge{display:inline-block;background:#7c3aed;color:#fff;font-size:.75rem;padding:2px 8px;border-radius:999px;margin-bottom:8px}details{background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:10px 14px;margin:8px 0}summary{font-weight:600;color:#4c1d95;cursor:pointer}details p{margin:8px 0 2px}.ad{background:#ede9fe;border:1px dashed #a78bfa;padding:14px;border-radius:8px;margin:22px 0}footer{background:#111827;color:#d1d5db;padding:26px 16px;font-size:.92rem}footer a{color:#c4b5fd}footer .wrap{padding:0}.links{display:flex;flex-wrap:wrap;gap:8px 16px}ul.plain{padding-left:18px}</style><header><nav class=\"nav\"><strong>MaTrix 官网</strong><a href=\"#intro\">简介</a><a href=\"#plans\">套餐对比</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">下载教程</a><a href=\"#faq\">常见问题</a><a href=\"#map\">网站地图</a></nav></header><main class=\"wrap\"><h1>MaTrix 官方网站</h1><p class=\"lead\">MaTrix 提供机场订阅与 VPN 网络加速服务，支持多端客户端下载、流媒体解锁与 IPLC 游戏优化，并给出基础版、旗舰版与团队版官方套餐说明。</p><section id=\"intro\"><h2>品牌简介</h2><div class=\"columns columns-2\"><div><p>MaTrix 是面向个人与团队的机场与 VPN 加速服务。用户通过官方订阅获取节点，在 Clash、Shadowrocket、Surge 等客户端中完成连接，用于稳定访问、内容解锁与游戏加速。品牌名称保持 MaTrix，不以重复后缀替代原意。</p><p>服务以流量套餐为主，节点包含普通线路与 IPLC 专线。旗舰与团队方案强调原生流媒体与游戏优化，并提供更明确的设备数量与工单响应。订阅、续费与客户端导入说明均以本站公开信息为准，避免来路不明的安装包或代充渠道。</p><p>若你需要把跨境网络当成日常工具，而不是一次性试验，MaTrix 用固定档位把流量、设备与线路能力写清楚，减少“套餐名称华丽、限额含糊”的阅读成本。</p></div><div class=\"card\"><h3>官方身份与交付</h3><ul class=\"plain\"><li>仅通过官网套餐页完成订阅说明与价格对照</li><li>客户端下载走各系统正版或主流开源客户端，再导入订阅</li><li>节点按套餐开放：基础线路池、全节点解锁、VIP 高带宽</li><li>工单优先与客户经理仅对应相应档位</li></ul></div></div></section><section id=\"plans\"><h2>套餐对比</h2><p>以下为 MaTrix 当前公开档位，价格与权益以本页为准。年付按 10 个月计，适合长期使用机场订阅的用户。</p><div class=\"columns plans\"><article class=\"card plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"card plan featured\"><p class=\"badge\">推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"card plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"columns scenes\"><div class=\"card\"><h3>流媒体与内容</h3><p>基础版覆盖常见内容站点的基础解锁；旗舰版与团队版走全节点原生策略，减少“能连上但播不了”的情况。适合追剧、纪录片与跨区目录浏览。</p></div><div class=\"card\"><h3>游戏与实时对战</h3><p>旗舰版起提供 IPLC 专线游戏加速优化，用于降低抖动与丢包。团队版另有高带宽节点，便于多开或工作室共享同一订阅策略。</p></div><div class=\"card\"><h3>协作、研究与多设备</h3><p>远程会议、资料库与多终端同步依赖稳定出口。3 / 5 / 20 台同时在线对应个人、家庭与小团队，避免把加速器当成无限共享账号。</p></div></div></section><section id=\"guide\"><h2>客户端下载与操作说明</h2><h3>1. 选择套餐并保存订阅</h3><p>在官网对照基础版、旗舰版、团队版后完成订阅。系统会发放订阅链接或二维码。请自行保管，不要把链接发到公开群组。MaTrix 只对官方通道发出的订阅负责。</p><h3>2. 官方下载方向（多端）</h3><p>MaTrix 提供机场订阅，不捆绑来源不明的安装包。请按系统选择常见客户端后导入：Windows 可用 Clash Verge 或同类 Meta 内核；macOS 可用 ClashX Meta 或 Surge；Android 可用 Clash Meta；iOS 可用 Shadowrocket 或 Stash。应用请从系统商店或项目发布页获取，再回到本站订阅完成配置。</p><h3>3. 导入、分流与连接</h3><p>打开客户端，选择“从 URL 导入/添加订阅”，粘贴链接并更新。建议开启规则分流：国内直连、海外走代理。先测延迟，再固定一条稳定节点；游戏场景优先选标注 IPLC 的线路。系统代理开启后，浏览器与游戏会按规则走加速通道。</p><h3>4. 日常维护</h3><p>每月流量在套餐周期内累计。接近上限时减少 4K 长时播放或改用更低画质。设备超限时先下线闲置终端。节点异常可切换邻近地区或提交工单；旗舰享有优先队列，团队版可走客户经理。</p></section><aside class=\"ad\"><h3>公告位</h3><p>MaTrix 线路维护窗口会提前在工单与订阅备注中提示。本栏仅作官方说明展示，不含跳转安装包。认准套餐价格与品牌写法，再进行客户端下载与订阅导入。</p></aside><section id=\"faq\"><h2>常见问题</h2><details><summary>MaTrix 是机场还是 VPN？和加速器有何关系？</summary><p>MaTrix 以机场订阅交付节点，同时覆盖 VPN 梯子与网络加速需求。你在客户端里导入订阅、选择节点并开启系统代理，即可把浏览、流媒体和游戏走加速通道。本站用 MaTrix 机场、MaTrix VPN 指同一官方服务，不另造重复后缀。</p></details><details><summary>如何进行客户端官方下载？会不会提供可执行安装包？</summary><p>请阅读本页「客户端下载与操作说明」。MaTrix 推荐使用各系统商店或开源项目发布的 Clash / Shadowrocket / Surge 等客户端，再导入官方订阅。我们不提供来路不明的 exe 或破解包，也不把下载入口外包给第三方网盘。</p></details><details><summary>三个套餐怎么选？流量和设备如何理解？</summary><p>轻度网页与基础流媒体选基础版：每月 100GB、3 台在线。追剧加游戏选旗舰版：300GB、5 台、全节点解锁与 IPLC。多人共享或企业路由选团队版：1000GB、20 台、VIP 带宽与客户经理。同时在线按实际握手设备计数，不是“曾经登录过的设备总数”。</p></details><details><summary>年付如何计价？是否必须一次买一年？</summary><p>月付可随时按档位使用。若按年付，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，相当于 10 个月价格。长期把 MaTrix 当作日常加速器的用户通常更合适年付；短期试用可先月付观察节点与客户端习惯。</p></details><details><summary>流媒体解锁和游戏加速分别依赖哪些线路？</summary><p>基础版使用普通线路节点池并解锁基础流媒体。旗舰与团队提供全节点原生解锁，并对热门游戏走 IPLC 专线优化。若某个平台仍提示地区限制，先更新订阅、更换同区域节点，再检查客户端是否开启了正确的分流规则。</p></details><details><summary>流量用尽或需要发票、定制路由时怎么办？</summary><p>流量按自然月统计，用尽后可升级档位或等待重置。团队版支持企业定制路由与专属客户经理，适合要固定出口策略的工作室。工单请通过官方渠道提交，不要向私下索要远程桌面的人员提供订阅。</p></details><details><summary>怎样确认自己访问的是 MaTrix 官网而不是仿冒下载站？</summary><p>核对品牌英文写法 MaTrix、本页三档价格与权益列表，以及“订阅 + 自选客户端”的交付方式。仿冒站往往用夸张评分、强制可执行文件或与本页不符的折扣。链接只使用页内锚点说明流程，付款与订阅发放以官方账户为准。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer id=\"map\"><div class=\"wrap\"><h2>网站地图、广告与友链</h2><p>网站地图：<a href=\"#intro\">品牌简介</a> · <a href=\"#plans\">套餐对比</a> · <a href=\"#scenes\">使用场景</a> · <a href=\"#guide\">客户端下载与教程</a> · <a href=\"#faq\">常见问题</a></p><p>广告说明：本页公告位仅展示 MaTrix 线路与订阅须知，不嵌入外部投放代码。</p><p>友情链接：</p><p class=\"links\"><a href=\"#guide\">多端客户端导入</a><a href=\"#plans\">官方套餐对照</a><a href=\"#faq\">机场订阅问答</a><a href=\"#scenes\">加速器使用场景</a></p><p>© MaTrix 官方网站 · 机场订阅与 VPN 网络加速信息页</p></div></footer>",
+          "hash": "3f33f100b940677fe208c3c7905acafac0b78ed8f34ffba50caea887fdff195f",
+          "seo": {
+            "title": "MaTrix 官方网站：机场订阅、VPN 加速器与客户端下载",
+            "keywords": "MaTrix,MaTrix机场,MaTrix VPN,VPN,梯子,网络加速,加速器,客户端下载,官网,官方下载,机场订阅",
+            "description": "MaTrix 提供机场订阅与 VPN 网络加速服务，支持多端客户端下载、流媒体解锁与 IPLC 游戏优化，并给出基础版、旗舰版与团队版官方套餐说明。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bojbm0.cn",
+    "host": "p-75e48d955b.bojbm0.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "bojbm0.cn",
+      "url": "https://bojbm0.cn/",
+      "label": "猫熊",
+      "apex": "bojbm0.cn",
+      "kind": null,
+      "identity": "pwk8xwvp/page-dfc5b43962b0586908b4cac0"
+    },
+    {
+      "host": "fgwey.cn",
+      "url": "https://fgwey.cn/",
+      "label": "MaTrix",
+      "apex": "fgwey.cn",
+      "kind": null,
+      "identity": "kayuvao/page-55c08e6afc88d3397dd18014"
+    },
+    {
+      "host": "gupmxs.cn",
+      "url": "https://gupmxs.cn/",
+      "label": "MaTrix",
+      "apex": "gupmxs.cn",
+      "kind": null,
+      "identity": "tiaenzvpvn/page-2ecac657bc9a97d139cf70f6"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "0ad5ea81d89662b5f76b6c4840a562fed0b6dc9bab8d428ddcb8335103e3d225",
+    "sitemap.xml": "c5acf50f12aa552169b2e26c17a95d0472c1e8829bed5439fbe873a8cd0d0c3a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f96f43f123da76ac94167be6a5f9f12a362104fc17da29108c1dc26c418ff4b4",
+    "robots.txt": "73a7b12709b946a6c6b2b92cafc2cfd2c411fe3978be585ab6cfbad14e00e983",
+    "f970aeb56b9d95fc633d6ff42a99615b.txt": "d254de830f01ba72a6b12fdf1f1aa4d2e290c8c980c1d38a210d18cb49acd473"
+  },
+  "revision": "caaa31c63558843a0df6d6c251ccac602c3750189a9638120ec3de7f5bef6d56"
+}
